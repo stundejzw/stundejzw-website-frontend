@@ -37,6 +37,15 @@
       "env": { "NODE_ENV": "development" },
       "sourceMaps": true,
       "webRoot": "${workspaceFolder}/apps/web-naive"
+    },
+    {
+      "type": "chrome",
+      "name": "vben stundejzw-admin dev",
+      "request": "launch",
+      "url": "http://localhost:6111",
+      "env": { "NODE_ENV": "development" },
+      "sourceMaps": true,
+      "webRoot": "${workspaceFolder}/apps/stundejzw-admin"
     }
   ]
 }

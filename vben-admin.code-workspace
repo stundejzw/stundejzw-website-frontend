@@ -5,6 +5,10 @@
       "path": "apps/backend-mock",
     },
     {
+      "name": "@vben/stundejzw-admin",
+      "path": "apps/stundejzw-admin",
+    },
+    {
       "name": "@vben/web-antd",
       "path": "apps/web-antd",
     },
